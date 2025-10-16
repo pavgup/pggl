@@ -1,8 +1,8 @@
 export const SITE = {
   website: "https://pg.gl/", // replace this with your deployed domain
-  author: "PG",
+  author: "Pavan Gupta",
   profile: "https://pg.gl/",
-  desc: "Thoughts and musings from PG.",
+  desc: "Thoughts and musings from Pavan Gupta.",
   title: "pg.gl",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
